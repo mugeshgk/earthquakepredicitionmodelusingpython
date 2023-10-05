@@ -1,1 +1,1 @@
-# earthquakepredicitionmodelusingpython
+# measureenergyconsumption
